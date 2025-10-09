@@ -117,7 +117,6 @@
 		top: 100%;
 		left: 0;
 		z-index: 1000;
-		background-color: var(--accent);
 		transition:
 			visibility 0.15s ease,
 			opacity 0.15s ease;
